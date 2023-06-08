@@ -15,6 +15,6 @@ top: 1
 
 ## 别问，问就是copy的
 
-这又何尝不是一名CV工程师内心独白呢，能CV为什么要自己写啊（懒狗
+这又何尝不是一名CV工程师的内心独白呢，能CV为什么要自己写啊（懒狗
 
 <!-- Modify `valaxy.config.ts` to custom your blog. -->

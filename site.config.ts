@@ -1,12 +1,18 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  // url: 'https://i0.hdslb.com/',
   lang: 'zh-CN',
   title: '風&Breeze',
   author: {
     name: '風',
+    // avatar: 'https://i0.hdslb.com/bfs/album/b8dc08f542c65eb4372015932c3dfa5ca0d3d488.jpg@1280w_904h_1e_1c_!web-dynamic.avif',
+    // avatar: 'https://www.yunyoujun.cn/images/avatar.jpg',
+    // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
+    avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
+    
   },
+  subtitle: '一个日常AT立场全开的自闭小伙',
   description: '你会过得好嘛？你好我就好',
   social: [
     // {
