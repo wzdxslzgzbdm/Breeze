@@ -2,14 +2,8 @@
 title: 关于我
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
-
-If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn).
+正如你所见，我是一个擅长CV大法的前端工程师，这个网页也是我花了两块巨资（域名与证书）给拿下的。如果你对我感兴趣，那我只能说你挺有品位的，毕竟英雄所见略同，本网站也只会分享纯干货，并且是作者本人亲身使用过的代码。
 
 ---
 
-我正在开发 [Valaxy](https://github.com/YunYouJun/valaxy) - 下一代静态博客框架。
-
-如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 或 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn) 赞助我。
-
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.
+我认为将自身的精神与心理慰藉寄乃至生存意义寄托与别人身上是及其愚蠢的，并且我不会同情任何失去心灵寄托与生存意义的所谓的可怜人，我只会认为其是无药可救的，在作者短短的20多年的人生中，很认可一段话，“放下助人情节，尊重他人命运”。
