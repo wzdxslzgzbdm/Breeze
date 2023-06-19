@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   // url: 'https://i0.hdslb.com/',
   lang: 'zh-CN',
-  title: '風&Breeze',
+  title: '橙汁不加糖',
   author: {
     name: '風',
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
