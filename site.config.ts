@@ -100,7 +100,7 @@ export default defineSiteConfig({
 
   // sponsor: {
   //   enable: true,
-  //   title: '我很可爱，请给我钱！',
+  //   title: '生活不易，懒狗卖艺，大哥大嫂行行好',
   //   methods: [
   //     {
   //       name: '支付宝',
