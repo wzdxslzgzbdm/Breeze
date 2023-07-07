@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '風',
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
     // avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
-    avatar:'http://p1.music.126.net/Jz4VpsmxySX9zLX-496bQg==/109951168668578886.jpg?param=110y110&quality=100',
+    avatar:'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/DDCEDF230D6044138A07AA3A3EFD8D62-6-2.jpg?Expires=1688748678&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=Qy62ezHt2qaJs1gtuHb2DjWNwLc%3D',
     
   },
   subtitle: '一个日常AT立场全开的自闭小伙',
@@ -98,28 +98,28 @@ export default defineSiteConfig({
     enable: false,
   },
 
-  // sponsor: {
-  //   enable: true,
-  //   title: '生活不易，懒狗卖艺，大哥大嫂行行好',
-  //   methods: [
-  //     {
-  //       name: '支付宝',
-  //       url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
-  //       color: '#00A3EE',
-  //       icon: 'i-ri-alipay-line',
-  //     },
-  //     {
-  //       name: 'QQ 支付',
-  //       url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
-  //       color: '#12B7F5',
-  //       icon: 'i-ri-qq-line',
-  //     },
-  //     {
-  //       name: '微信支付',
-  //       url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
-  //       color: '#2DC100',
-  //       icon: 'i-ri-wechat-pay-line',
-  //     },
-  //   ],
-  // },
+  sponsor: {
+    enable: true,
+    title: '生活不易，懒狗卖艺，大哥大嫂行行好',
+    methods: [
+      {
+        name: '支付宝',
+        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/8A6A4DD625AB4F49990662D3A7340CDB-6-2.jpg?Expires=1688748485&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=r6Of2NBZUCscqTBV4H1H7Zhj8K4%3D',
+        color: '#00A3EE',
+        icon: 'i-ri-alipay-line',
+      },
+      {
+        name: 'QQ 支付',
+        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/8783FF83B61E4052A0A23162AA87CAA4-6-2.jpg?Expires=1688748453&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=W%2B8kQn6H11wOuHt3QnZtiL%2FtTGQ%3D',
+        color: '#12B7F5',
+        icon: 'i-ri-qq-line',
+      },
+      {
+        name: '微信支付',
+        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/0091892497014B469AAAC7C50ABECFA6-6-2.png?Expires=1688748470&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=JIIGUf1aiqRFZiw3GtOUp0yyf%2BI%3D',
+        color: '#2DC100',
+        icon: 'i-ri-wechat-pay-line',
+      },
+    ],
+  },
 })
