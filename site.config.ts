@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '風',
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
     // avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
-    avatar:'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/DDCEDF230D6044138A07AA3A3EFD8D62-6-2.jpg?Expires=1688748678&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=Qy62ezHt2qaJs1gtuHb2DjWNwLc%3D',
+    avatar:'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/20DEBF4D6AB245668072E98543F94889-6-2.png?Expires=1688750001&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=XrDoYs8LrFCIAV40CUREoIl%2FHkE%3D',
     
   },
   subtitle: '一个日常AT立场全开的自闭小伙',
