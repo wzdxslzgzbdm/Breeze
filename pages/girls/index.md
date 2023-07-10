@@ -28,6 +28,6 @@ height=600
 width=800> 
 </iframe> -->
 
-<video width="auto" height="auto" autoplay controls>
+<!-- <video width="auto" height="auto" autoplay controls>
   <source src="https://breeze-info.oss-rg-china-mainland.aliyuncs.com/295064737_1_0.mp4">
-</video>
+</video> -->
