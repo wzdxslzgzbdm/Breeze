@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '風',
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
     // avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
-    avatar:'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/20DEBF4D6AB245668072E98543F94889-6-2.png?Expires=1688750001&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=XrDoYs8LrFCIAV40CUREoIl%2FHkE%3D',
+    avatar:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E7%97%85%E5%A8%87%E9%B8%BD%E5%AD%90%281%29%281%29.png',
     
   },
   subtitle: '一个日常AT立场全开的自闭小伙',
@@ -104,19 +104,19 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/0B7452337BCD44F7AE8C9EB300F1E8E9-6-2.jpg?Expires=1688750569&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=%2FeGx%2Bf78tuRgu1EGXggNg3mYbco%3D',
+        url: 'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/zfb.jpg',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/379DD260D91A4D77BEE4DBF4F4279139-6-2.jpg?Expires=1688750503&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=ltFzBMmiIink8AB95NUBtJndrbI%3D',
+        url: 'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/qq.jpg',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/FD10F526D1ED4D82A44562CD46290714-6-2.png?Expires=1688750535&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=OwSxgkDnaBT%2BhAsXrSKCTxFa228%3D',
+        url: 'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/wx.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
