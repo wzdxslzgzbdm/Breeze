@@ -16,7 +16,8 @@ top: 3
 .其次要开通商户公众号的公众号支付的功能并添加域名，开通完成后就可以基本开始我们的开发了
 
 <!-- ![image.png](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915102341193-893890154.png) -->
-![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915102341193-893890154.png)
+<!-- ![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915102341193-893890154.png) -->
+![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/8f87a01fa2ac4a13ae306dd51cfb4beb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp)
 既然是jsapi开发 自然是要引入的\
 `npm install weixin-jsapi`\
 在页面引入文件\
@@ -24,7 +25,8 @@ top: 3
 如果是html文件中可以script标签引入
 
 <!-- ![image.png](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
-![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png)
+<!-- ![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
+![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19065ca2ad424c30a468bb91f734d895~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp)
 
 再来就是熟悉一下流程\
 微信支付需要先跳转到微信指定的页面获取code ，这个code会在跳到微信指定的页面时会把这个code自动添加到地址栏中再返回支付的页面，注意 返回支付页面时地址栏的code参数不会消失，code参数是在支付的页面进行获取的。
