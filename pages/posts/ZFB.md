@@ -27,7 +27,8 @@ top: 3
 <!-- ![image.png](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
 <!-- ![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
 <!-- ![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19065ca2ad424c30a468bb91f734d895~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp) -->
-![alt text](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png)
+<!-- ![alt text](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
+![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19065ca2ad424c30a468bb91f734d895~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzExODY1MjIwNjA5NDIzMiJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1728203919&x-orig-sign=xVGmfm8nyC3CYbFYvh3T1X7q6Lw%3D)
 再来就是熟悉一下流程\
 微信支付需要先跳转到微信指定的页面获取code ，这个code会在跳到微信指定的页面时会把这个code自动添加到地址栏中再返回支付的页面，注意 返回支付页面时地址栏的code参数不会消失，code参数是在支付的页面进行获取的。
 
