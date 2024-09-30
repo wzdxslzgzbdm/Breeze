@@ -11,8 +11,8 @@ export default defineSiteConfig({
     avatar:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E7%97%85%E5%A8%87%E9%B8%BD%E5%AD%90%281%29%281%29.png',
 
   },
-  subtitle: '一个日常AT立场全开的自闭小伙',
-  description: '你会过得好嘛？你好我就好',
+  subtitle: '00后社恐菜鸡前端',
+  description: '双鸟暂时离分，必有重逢之日',
   social: [
     // {
     //   name: 'RSS',
