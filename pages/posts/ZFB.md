@@ -15,20 +15,17 @@ top: 3
 .首先要有一个开通商户注册的公众号，我们需要他的appid；\
 .其次要开通商户公众号的公众号支付的功能并添加域名，开通完成后就可以基本开始我们的开发了
 
-<!-- ![image.png](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915102341193-893890154.png) -->
-<!-- ![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915102341193-893890154.png) -->
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/8f87a01fa2ac4a13ae306dd51cfb4beb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp)
+![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/BB04074C5C0B4BB3BCFFFE206635BB8F-6-2.png?Expires=1727678677&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=oY1Z55IuYumAyMboZQboAXS4byU%3D)
+
 既然是jsapi开发 自然是要引入的\
 `npm install weixin-jsapi`\
 在页面引入文件\
 `import wx from 'weixin-jsapi'`\
 如果是html文件中可以script标签引入
 
-<!-- ![image.png](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
-<!-- ![](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
-<!-- ![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19065ca2ad424c30a468bb91f734d895~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp) -->
-<!-- ![alt text](https://img2023.cnblogs.com/blog/3137473/202309/3137473-20230915103242292-756464398.png) -->
-![image.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/19065ca2ad424c30a468bb91f734d895~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6aKo5Li2YnJlZXpl:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzExODY1MjIwNjA5NDIzMiJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1728203919&x-orig-sign=xVGmfm8nyC3CYbFYvh3T1X7q6Lw%3D)
+![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/35B37B16EEA44323A915CECAD569489E-6-2.png?Expires=1727678620&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=lv0SjkY2OB4WOiKOsSfgKxTnLWE%3D)
+
+
 再来就是熟悉一下流程\
 微信支付需要先跳转到微信指定的页面获取code ，这个code会在跳到微信指定的页面时会把这个code自动添加到地址栏中再返回支付的页面，注意 返回支付页面时地址栏的code参数不会消失，code参数是在支付的页面进行获取的。
 
