@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '橙汁不加糖',
+      title: '風のひみつ基地',
       cloud: {
         enable: true,
       },
