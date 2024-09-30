@@ -9,7 +9,7 @@ export default defineSiteConfig({
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
     // avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
     avatar:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E7%97%85%E5%A8%87%E9%B8%BD%E5%AD%90%281%29%281%29.png',
-    
+
   },
   subtitle: '一个日常AT立场全开的自闭小伙',
   description: '你会过得好嘛？你好我就好',
@@ -101,6 +101,7 @@ export default defineSiteConfig({
   sponsor: {
     enable: true,
     title: '生活不易，懒狗卖艺，大哥大嫂行行好',
+    description:'赞....赞助什么的 请多来一点',
     methods: [
       {
         name: '支付宝',
