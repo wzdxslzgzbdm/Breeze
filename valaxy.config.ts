@@ -24,12 +24,12 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 
     pages: [
-      // {
-      //   name: '我的小伙伴们',
-      //   url: '/links/',
-      //   icon: 'i-ri-genderless-line',
-      //   color: 'dodgerblue',
-      // },
+      {
+        name: '我的小伙伴们',
+        url: '/links/',
+        icon: 'i-ri-genderless-line',
+        color: 'dodgerblue',
+      },
       {
         name: '我亲爱的老婆们',
         url: '/girls/',
