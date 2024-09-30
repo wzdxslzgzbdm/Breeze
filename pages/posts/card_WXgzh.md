@@ -13,12 +13,15 @@ top: 4
 ## 配置安全域名
 
 <!-- ![image.jpg](https://img2023.cnblogs.com/blog/3137473/202305/3137473-20230516101736027-1494685.jpg) -->
+![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/BB04074C5C0B4BB3BCFFFE206635BB8F-6-2.png?Expires=1727678677&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=oY1Z55IuYumAyMboZQboAXS4byU%3D)
 
 ## 页面引入相关JS
 
 在需要调用JS接口的页面引入如下JS文件，（支持https）：http://res.wx.qq.com/open/js/jweixin-1.6.0.js
 
 如需进一步提升服务稳定性，当上述资源不可访问时，可改访问：http://res2.wx.qq.com/open/js/jweixin-1.6.0.js （支持https）。
+
+![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/35B37B16EEA44323A915CECAD569489E-6-2.png?Expires=1727678620&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=lv0SjkY2OB4WOiKOsSfgKxTnLWE%3D)
 
 备注：支持使用 AMD/CMD 标准模块加载方法加载
 
