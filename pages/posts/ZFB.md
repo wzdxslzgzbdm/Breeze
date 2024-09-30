@@ -15,7 +15,7 @@ top: 3
 .首先要有一个开通商户注册的公众号，我们需要他的appid；\
 .其次要开通商户公众号的公众号支付的功能并添加域名，开通完成后就可以基本开始我们的开发了
 
-![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/BB04074C5C0B4BB3BCFFFE206635BB8F-6-2.png?Expires=1727678677&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=oY1Z55IuYumAyMboZQboAXS4byU%3D)
+![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img2wsjsapi.png)
 
 既然是jsapi开发 自然是要引入的\
 `npm install weixin-jsapi`\
@@ -23,7 +23,7 @@ top: 3
 `import wx from 'weixin-jsapi'`\
 如果是html文件中可以script标签引入
 
-![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/35B37B16EEA44323A915CECAD569489E-6-2.png?Expires=1727678620&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=lv0SjkY2OB4WOiKOsSfgKxTnLWE%3D)
+![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img1wxjsapi.png)
 
 
 再来就是熟悉一下流程\

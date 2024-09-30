@@ -13,7 +13,7 @@ top: 4
 ## 配置安全域名
 
 <!-- ![image.jpg](https://img2023.cnblogs.com/blog/3137473/202305/3137473-20230516101736027-1494685.jpg) -->
-![](https://outin-46c2b0fe1b4d11ee8ad900163e024c6a.oss-cn-shanghai.aliyuncs.com/image/default/18B355DB8E3C4E238FDDCCAEF26C40E2-6-2.png?Expires=1727679193&OSSAccessKeyId=LTAIxSaOfEzCnBOj&Signature=t9sNTNSFw4AIrL3KmtfTvvSp38E%3D)
+![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img3gzh.png)
 
 ## 页面引入相关JS
 
