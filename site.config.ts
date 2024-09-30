@@ -6,6 +6,9 @@ export default defineSiteConfig({
   title: '風の城',
   author: {
     name: '風',
+    status:{
+      emoji:'🐀',
+    },
     // avatar: 'http://p1.music.126.net/jm0idXPGrsrAbViQTd6gag==/109951168210713059.jpg?param=180y180',
     // avatar: 'http://p1.music.126.net/Lq_Nn-r3SkYt9EcRgnA6Mw==/109951166219186303.jpg?param=140y140',
     avatar:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E7%97%85%E5%A8%87%E9%B8%BD%E5%AD%90%281%29%281%29.png',
