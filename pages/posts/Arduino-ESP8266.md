@@ -37,7 +37,7 @@ top: 2
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%879.png)
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8710.png)
 
-# 此处三元组与arduino代码里的三元组不是同一组 本文档arduino与小程序截图内的两处三元组都为以往项目的三元组 需进行二次替换不可照搬 y因抄袭代码导致的损失不予承担且保留追责权利
+！！！此处三元组与arduino代码里的三元组不是同一组 本文档arduino与小程序截图内的两处三元组都为以往项目的三元组 需进行二次替换不可照搬因抄袭代码导致的损失不予承担且保留追责权利
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8711.png)
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8712.png)
 
@@ -59,8 +59,7 @@ top: 2
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8719.png)
 ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8720.png)
 首行固定格式 var data = payload("json");
-
-将发送端的JSON数据转化 流传物模型上报数据 writeIotTopic(1002, "/sys/id9fLzoFUFT/4_12_8266/thing/service/property/set", data)  writeIotTopic为解析器的API 1002为数据目的ID
+将发送端的JSON数据转化 流传物模型上报数据 writeIotTopic(1002, "/sys/id9fLzoFUFT/4_12_8266/thing/service/property/set",data)  writeIotTopic为解析器的API 1002为数据目的ID
 /sys/id9fLzoFUFT/4_12_8266/thing/service/property/set为接收端的topic  (/sys为前缀 不可去除 此为设置接收端物模型的属性) data为解析后的数据
 可于在线调试界面调试测试接收端是否能正确接收平台转发的消息 如成功则于日志服务中查看平台转发的消息格式 并将此格式作为发送端发送数据时的格式
 
