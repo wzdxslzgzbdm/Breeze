@@ -1,4 +1,5 @@
 import { defineValaxyConfig } from 'valaxy'
+import { addonWaline } from 'valaxy-addon-waline'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 
 // add icons what you will need
@@ -13,7 +14,16 @@ export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
 
   theme: 'yun',
-
+  siteConfig: {
+    comment:{
+      enable:true
+    },
+  },
+  addons:[
+    addonWaline({
+      serverURL:'https://mytaketeam-4u0audb63-wzdxslzgzbdms-projects.vercel.app/.well-known/vercel/toolbar?path=%2F%3FvercelToolbarCode%3DMfDpTzMM6TuICcJ'
+    })
+  ],
   themeConfig: {
     banner: {
       enable: true,
