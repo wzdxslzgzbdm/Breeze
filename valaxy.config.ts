@@ -227,7 +227,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
       {
         text: '关于',
         icon: 'i-fa-leaf',
-        link: pkg.author.url,
+        link: '/about',
         target: '_blank',
       },
       // {
@@ -315,7 +315,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
       since: 2019,
 
       icon: {
-        img: '/favicon-16x16.ico',
+        img: '🐀',
         animated: true,
         url: 'https://wrxinyue.org',
         title: 'WRXinYue',
