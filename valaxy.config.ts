@@ -189,6 +189,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
       //   icon: 'i-fa-film',
       //   text: '番剧',
       //   // locale: 'menu.anime',
+      //   target: '_blank',
       //   link: '/anime',
       // },
       // {
@@ -196,28 +197,33 @@ export default defineValaxyConfig<ThemeUserConfig>({
       //   text: '留言板',
       //   link: '/comment',
       // },
-      // {
-      //   text: '友情链接',
-      //   icon: 'i-fa-chain',
-      //   link: '/links',
-      //   items: [
-      //     {
-      //       text: 'GitHub',
-      //       icon: 'i-line-md-github-twotone',
-      //       link: 'https://github.com/WRXinYue/valaxy-theme-sakura',
-      //     },
-      //     {
-      //       text: 'Discord',
-      //       icon: 'i-line-md-discord-twotone',
-      //       link: 'https://discord.gg/sGe4U4p4CK',
-      //     },
-      //     {
-      //       text: 'Valaxy →',
-      //       icon: 'i-ri-cloud-fill',
-      //       link: 'https://github.com/YunYouJun/valaxy',
-      //     },
-      //   ],
-      // },
+      {
+        text: '心爱之人',
+        link: '/girls',
+        icon: 'i-ri-women-line',
+      },
+      {
+        text: '友情链接',
+        icon: 'i-ri-genderless-line',
+        link: '/links',
+        // items: [
+        //   {
+        //     text: 'GitHub',
+        //     icon: 'i-line-md-github-twotone',
+        //     link: 'https://github.com/WRXinYue/valaxy-theme-sakura',
+        //   },
+        //   {
+        //     text: 'Discord',
+        //     icon: 'i-line-md-discord-twotone',
+        //     link: 'https://discord.gg/sGe4U4p4CK',
+        //   },
+        //   {
+        //     text: 'Valaxy →',
+        //     icon: 'i-ri-cloud-fill',
+        //     link: 'https://github.com/YunYouJun/valaxy',
+        //   },
+        // ],
+      },
       // {
       //   text: pkg.author.name,
       //   icon: 'i-line-md-hazard-lights-filled',
@@ -228,7 +234,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
         text: '关于',
         icon: 'i-fa-leaf',
         link: '/about',
-        target: '_blank',
+        // target: '_blank',
       },
       // {
       //   text: 'RSS',
@@ -305,6 +311,7 @@ export default defineValaxyConfig<ThemeUserConfig>({
     ],
     sidebarOptions: {
       position: 'left',
+      showCounts: true
     },
 
     tags: {
@@ -313,12 +320,12 @@ export default defineValaxyConfig<ThemeUserConfig>({
 
     footer: {
       since: 2019,
-
+      powered: true,
       icon: {
-        img: '🐀',
+        img: 'https://avatars.githubusercontent.com/u/106162279?v=4',
         animated: true,
-        url: 'https://wrxinyue.org',
-        title: 'WRXinYue',
+        // url: 'https://wrxinyue.org',
+        title: 'Breeze',
       },
     },
 
