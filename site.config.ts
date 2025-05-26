@@ -14,6 +14,7 @@ export default defineSiteConfig({
     avatar:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E7%97%85%E5%A8%87%E9%B8%BD%E5%AD%90%281%29%281%29.png',
 
   },
+  favicon:'https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E5%8D%AB%E6%98%9F.svg',
   subtitle: '懒狗随缘更新ing...',
   description: '六朝何事,只成门户私计',
   social: [

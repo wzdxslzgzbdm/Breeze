@@ -244,8 +244,8 @@ export default defineValaxyConfig<ThemeUserConfig>({
       // },
     ],
     navbarOptions: {
-      title: ['Valaxy Theme', 'Sakura'],
-      subTitle: '一个基于 valaxy 的 sakura 主题',
+      title: ['Breeze', '風'],
+      subTitle: '风过无痕，影存片刻；此刹之光，亦是吾所唯一之证。',
       offset: 0,
       invert: ['home'],
       showMarker: false,
