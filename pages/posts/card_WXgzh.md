@@ -13,7 +13,7 @@ top: 4
 ## 配置安全域名
 
 <!-- ![image.jpg](https://img2023.cnblogs.com/blog/3137473/202305/3137473-20230516101736027-1494685.jpg) -->
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img3gzh.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f77ec9bdfb.png)
 
 ## 页面引入相关JS
 

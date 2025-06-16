@@ -31,7 +31,7 @@ title: 不喜欢我的纸片人老婆们的人有难了
 
 <div align="center">
   <a href="https://imgse.com/i/pCycN4O" target="_blank">
-    <img src="https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E4%B8%9C%E6%B5%B7%E5%B8%9D%E7%9A%87%26%E9%BA%A6%E6%98%86.jpg" width="80%" />
+    <img src="https://img.mnorg.com/imgs/2025/06/16/684f7a8392eed.jpg" width="80%" />
   </a>
 </div>
 
@@ -55,7 +55,7 @@ title: 不喜欢我的纸片人老婆们的人有难了
 ## 🐚 宫泽风花 —《[白沙的水族馆](https://aquatope-anime.com/)》
 
 <div align="center">
-  <img src="https://breeze-info.oss-rg-china-mainland.aliyuncs.com/%E9%A3%8E%E8%8A%B1.jpg" width="80%" />
+  <img src="https://img.mnorg.com/imgs/2025/06/16/684f7a0a098da.jpg" width="80%" />
 </div>
 
 风花的故事更像一首缓慢展开的钢琴曲。前奏轻柔，和声淡雅，却在细微处藏着波澜。
@@ -76,7 +76,7 @@ title: 不喜欢我的纸片人老婆们的人有难了
 在这个快节奏、喧嚣浮躁的世界中，风花这样的人，也值得一个舞台。
 
 <div align="center">
-  <img src="https://breeze-info.oss-rg-china-mainland.aliyuncs.com/02-3.jpg" width="80%" />
+  <img src="https://img.mnorg.com/imgs/2025/06/16/684f7abb92834.jpg" width="80%" />
 </div>
 
 </div>

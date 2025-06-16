@@ -10,12 +10,12 @@ top: 3
 ---
 
 
-注意看 本文主要讲解uniapp打包成h5页面并部署在公众号时使用JSAPI的微信支付问题\
+注意看 本文主要讲解uniapp打包成h5页面并部署在公众号时使用JSAPI的微信支付问题
 ## 前期准备工作
 .首先要有一个开通商户注册的公众号，我们需要他的appid；\
 .其次要开通商户公众号的公众号支付的功能并添加域名，开通完成后就可以基本开始我们的开发了
 
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img2wsjsapi.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f77ec95570.png)
 
 既然是jsapi开发 自然是要引入的\
 `npm install weixin-jsapi`\
@@ -23,7 +23,7 @@ top: 3
 `import wx from 'weixin-jsapi'`\
 如果是html文件中可以script标签引入
 
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/img1wxjsapi.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f77eca98cc.png)
 
 
 再来就是熟悉一下流程\
