@@ -22,42 +22,42 @@ top: 2
 
 ## 阿里云前期操作
  创建产品
- ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%871.png)
+ ![](https://img.mnorg.com/imgs/2025/06/16/684f8763d8142.png)
 功能定义（主要是接收端的定义，新增功能也需要新增功能定义）
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%872.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%873.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%874.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%875.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%876.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f876625020.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f87661ce91.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8763b860b.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8763db55d.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f87648c1b8.png)
 自定义topic （建议接收端和发送端各一个，权限为发布和订阅）
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%877.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8764ab1ea.png)
 ## 开发板与微信小程序
 创建设备（发送端和接收端都需要创建）
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%878.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%879.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8710.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8764c202b.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f876544f8d.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f876561c8f.png)
 
 ！！！此处三元组与arduino代码里的三元组不是同一组 本文档arduino与小程序截图内的两处三元组都为以往项目的三元组 需进行二次替换不可照搬因抄袭代码导致的损失不予承担且保留追责权利
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8711.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8712.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f876597b1d.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f87665e2f9.png)
 
 ## 在接收端和发送端代码内订阅各自的topic并与阿里云链接
 打开阿里云物联网控制台
 左侧 消息转发==》云产品流传
 点击数据源 创建数据源 编辑 添加topic 选择发送端的自定义topic
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8713.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8714.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8766e7670.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f8766ca6f4.png)
 点击数据目的 创建数据目的 编辑 操作为发送到另一个topic 产品选择接收端
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8715.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f876724bc3.png)
 点击解析器 创建解析器
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8716.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f88db5c20a.png)
  编辑 关联数据源 选择之前创建的数据源
- ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8717.png)
+ ![](https://img.mnorg.com/imgs/2025/06/16/684f88dbd095c.png)
  点击数据目的 关联数据目的
- ![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8718.png)
+ ![](https://img.mnorg.com/imgs/2025/06/16/684f88dbe96e8.png)
 选择之前创建的数据目的 点击解析器脚本 编写脚本
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8719.png)
-![](https://breeze-info.oss-rg-china-mainland.aliyuncs.com/esp8266/%E5%9B%BE%E7%89%8720.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f88db509e9.png)
+![](https://img.mnorg.com/imgs/2025/06/16/684f88db31f95.png)
 首行固定格式 var data = payload("json");
 将发送端的JSON数据转化 流传物模型上报数据 writeIotTopic(1002, "/sys/id9fLzoFUFT/4_12_8266/thing/service/property/set",data)  writeIotTopic为解析器的API 1002为数据目的ID
 /sys/id9fLzoFUFT/4_12_8266/thing/service/property/set为接收端的topic  (/sys为前缀 不可去除 此为设置接收端物模型的属性) data为解析后的数据
