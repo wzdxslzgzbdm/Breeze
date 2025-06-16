@@ -13,7 +13,7 @@ random: true
 - [鸿焱笔记](https://blog.mnorg.cn/)
 - [田园里的蟋蟀](https://www.cnblogs.com/xishuai/p/18433187)
 - [NeoNexus's blog](https://neonexusx.github.io)
-
+- [博客星球](https://www.blogplanet.cn/)
 </div>
 
 <YunLinks :links="frontmatter.links" :random="frontmatter.random" />
